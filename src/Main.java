@@ -12,7 +12,7 @@ public class Main {
             }
         };
 
-        comp2.superComp();
+//        comp2.superComp();
 
 
 
